@@ -1,0 +1,22 @@
+{
+  "name": "apricot",
+  "version": "1.0.0",
+  "description": "apricot is a demo repo to test channels",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DistributedCamp/apricot.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "alexwykoff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DistributedCamp/apricot/issues"
+  },
+  "homepage": "https://github.com/DistributedCamp/apricot#readme"
+}
